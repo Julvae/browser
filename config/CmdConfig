@@ -1,0 +1,6 @@
+cmd=wget, 
+auto=true,	
+thread=1,
+url=http://as.xiaojukeji.com/toggles,
+times=100,
+print=false

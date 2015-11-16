@@ -1,0 +1,10 @@
+{
+	"ns":"cx",
+	"city":"123,345,567,789,012",
+	"api_version":"1.0,1.2"	,
+	"args":
+	[
+		{"os_type":"android","os_version":"4.0,4.1,4.2"},
+		{"os_type":"ios","os_version":"9.0,9.1"}
+	]		
+}#

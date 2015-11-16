@@ -1,0 +1,15 @@
+
+SNED GET/POST REQUEST TO APOLLO SERVER:
+NAME	
+	wget/wpost - http get for apollo-server
+
+SYNOPSIS	
+	wget/wpost   [url]   [times]
+			
+	url     --the needed (host:port+path+params)
+	times 	--the times of excute the wget operate
+	        if you don't give this argument,the default is one.
+
+NAME 
+	quit    --exit the process.
+	help    --get the help doc.
