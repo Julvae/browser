@@ -1,6 +1,6 @@
 cmd=wget, 
 auto=true,	
 thread=1,
-url=http://as.xiaojukeji.com/toggles,
+url=http://www.baidu.com,
 times=100,
 print=false
